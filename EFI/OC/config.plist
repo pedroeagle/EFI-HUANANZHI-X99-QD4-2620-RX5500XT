@@ -620,7 +620,7 @@
 				<key>revcpu</key>
 				<integer>1</integer>
 				<key>revcpuname</key>
-				<string>Intel(R) Xeon(R) CPU E5-2670 v3 @ 2.30GHz</string>
+				<string>Intel(R) Xeon(R) CPU E5-2670 v3 @ 3.10GHz</string>
 				<key>rtc-blacklist</key>
 				<data></data>
 			</dict>
