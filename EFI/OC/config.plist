@@ -214,7 +214,7 @@
 			<key>PciRoot(0x0)/Pci(0x1B,0x0)</key>
 			<dict>
 				<key>layout-id</key>
-				<integer>11</integer>
+				<integer>66</integer>
 			</dict>
 			<key>PciRoot(0x0)/Pci(0x1C,0x2)/Pci(0x0,0x0)</key>
 			<dict>
@@ -620,7 +620,7 @@
 				<key>revcpu</key>
 				<integer>1</integer>
 				<key>revcpuname</key>
-				<string>Intel(R) Xeon(R) CPU E5-2670 v3 @ 3.10GHz</string>
+				<string>Intel(R) Xeon(R) CPU E5-2670 v3 @ 2.30GHz</string>
 				<key>rtc-blacklist</key>
 				<data></data>
 			</dict>
@@ -991,6 +991,8 @@
 			<key>TscSyncTimeout</key>
 			<integer>0</integer>
 			<key>UnblockFsConnect</key>
+			<false/>
+			<key>ResizeUsePciRbIo</key>
 			<false/>
 		</dict>
 		<key>ReservedMemory</key>
